@@ -1,6 +1,0 @@
-﻿  Lab1Estructura de Datos.cpp
-C:\Users\Ishai\source\repos\Lab1Estructura de Datos\Lab1Estructura de Datos\Lab1Estructura de Datos.cpp(53,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-C:\Users\Ishai\source\repos\Lab1Estructura de Datos\Lab1Estructura de Datos\Lab1Estructura de Datos.cpp(66,37): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-C:\Users\Ishai\source\repos\Lab1Estructura de Datos\Lab1Estructura de Datos\Lab1Estructura de Datos.cpp(89,38): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-C:\Users\Ishai\source\repos\Lab1Estructura de Datos\Lab1Estructura de Datos\Lab1Estructura de Datos.cpp(100,34): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-  Lab1Estructura de Datos.vcxproj -> C:\Users\Ishai\source\repos\Lab1Estructura de Datos\x64\Debug\Lab1Estructura de Datos.exe
